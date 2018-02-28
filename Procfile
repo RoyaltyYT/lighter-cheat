@@ -1,1 +1,1 @@
-worker: serv.sh
+worker: index.js
