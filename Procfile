@@ -1,0 +1,1 @@
+worker: serv.sh
